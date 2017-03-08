@@ -15,6 +15,9 @@
 	*'new repository' erstellen und benennen
   * 'push' --> Datei wird auf Server gespeichert
     *Server in GIT GUI anlegen 
-	  *'remote'-->'add' --> ('Name' und 'Location' angeben)["I:\web mapping\repository erstellen\Ordner\add new remote.JPG"]
-	*(Auswahl von 'Source Branches' und 'Destination Repository')["I:\web mapping\repository erstellen\Ordner\push.JPG"]
+	  *'remote'-->'add' --> ('Name' und 'Location' angeben)["addnewremote"]
+	*(Auswahl von 'Source Branches' und 'Destination Repository')["push.JPG"]
+	*(Erscheinung der Erfolgsmeldung)["erfolgsmeldung.JPG"]
+	
+	
 	
