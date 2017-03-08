@@ -12,8 +12,10 @@
   * 'sign off' --> Kommentar kann zu Datei hinzugefügt werden
   * 'commit' --> Datei wird gespeichert 
     * Konto auf [Link zu GITHUB](https://github.com/) anlegen 
+	*'new repository' erstellen und benennen
   * 'push' --> Datei wird auf Server gespeichert
-    * Server in GIT GUI anlegen
+    * Server in GIT GUI anlegen 
 	  *'remote'-->'add' --> ('Name' und 'Location' angeben)["I:\web mapping\repository erstellen\Ordner\add new remote.JPG"]
+	  
   
   
